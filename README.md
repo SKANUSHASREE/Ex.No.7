@@ -1,11 +1,15 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
+# Date: 19-05-2026
+# Register no. : 212224040149
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-#AI Tools Required: 
+# AI Tools Required: 
+Use at least two AI tools such as:
 
+OpenAI – ChatGPT
+Google – Gemini
+Anthropic – Claude
 
 # Explanation: 
 Prompt:
@@ -30,6 +34,9 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
+# Output:
+
+[Personal_Productivity_Assistant_Documentation.pdf](https://github.com/user-attachments/files/27982753/Personal_Productivity_Assistant_Documentation.pdf)
 
 
 # Result: 
